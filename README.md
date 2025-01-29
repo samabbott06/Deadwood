@@ -10,4 +10,6 @@ This is a playable GUI version of the Deadwood 1876 board game from Facade Games
 
 Have fun!
 
-NOTE: This project was created at WWU with the help of Valerie Cook.
+NOTE: Some features work better on Mac than on Windows.
+
+This project was created at WWU with the help of Valerie Cook.
